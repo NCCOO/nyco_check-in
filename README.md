@@ -1,6 +1,8 @@
 # nyco_check-in
 This is a FiveM script which adds a command for a Ingame Whitelist
 
+- https://streamable.com/i33jl5
+
 #
 
 Features:
