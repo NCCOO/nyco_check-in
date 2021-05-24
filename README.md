@@ -5,7 +5,7 @@ This is a FiveM script which adds a command for a Ingame Whitelist
 
 Features:
 
-- /depature [ID] 
+- /departure [ID] 
 
 #
 
